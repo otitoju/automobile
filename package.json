@@ -1,0 +1,25 @@
+{
+  "name": "team-letscodeit-product",
+  "version": "1.0.0",
+  "description": "This is a platform that acts as an intermediate between the farmer and consumer (Farmer - Consumer platform).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BuildForSDGCohort2/Team-Letscodeit-Product.git"
+  },
+  "author": "otitoju",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BuildForSDGCohort2/Team-Letscodeit-Product/issues"
+  },
+  "homepage": "https://github.com/BuildForSDGCohort2/Team-Letscodeit-Product#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.9.24"
+  }
+}
